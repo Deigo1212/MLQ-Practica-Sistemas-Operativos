@@ -9,7 +9,8 @@ import java.util.LinkedList;
 import java.util.List;
 import java.util.Queue;
 
-
+// Juan Diego Ledezma 
+// Codigo 2540088-3743
 public class SimuladorMLQ {
 
     // --- Colas de Planificación ---
